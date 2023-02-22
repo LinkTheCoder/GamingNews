@@ -1,2 +1,2 @@
 # GamingNews
- A gaming news webapp 🎮
+ A gaming news web site 🎮
